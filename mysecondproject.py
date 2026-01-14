@@ -1,0 +1,5 @@
+print("This is My second Message in my Second Project")
+print(1+5)
+print(5*5)
+print(20/5)
+print(28-21)
